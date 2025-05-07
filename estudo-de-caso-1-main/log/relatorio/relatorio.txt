@@ -1,0 +1,25 @@
+📌 RELATÓRIO DE LOGS 📌
+==================================================
+Total de eventos processados: 25
+Eventos Críticos: 5
+Eventos de Erro: 4
+Eventos de Aviso: 2
+
+--- 🚨 Eventos Críticos ---
+2025-03-18 19:05:00 - Pedido 102 falhou por falta de ingredientes
+2025-03-18 19:20:30 - Pedido 105 falhou devido a problema no sistema de pagamento
+2025-03-18 19:30:00 - Pedido 107 atrasado por falha no equipamento de preparo
+2025-03-18 19:18:00 - Equipamento principal da cozinha apresentou falha grave
+2025-03-18 19:18:30 - Todos os pedidos atrasados devido a falha no equipamento
+
+--- ❌ Eventos de Erro ---
+2025-03-18 19:05:00 - Pedido 102 falhou por falta de ingredientes
+2025-03-18 19:20:30 - Pedido 105 falhou devido a problema no sistema de pagamento
+2025-03-18 19:30:00 - Pedido 107 atrasado por falha no equipamento de preparo
+2025-03-18 19:18:30 - Todos os pedidos atrasados devido a falha no equipamento
+
+--- ⚠️ Eventos de Aviso ---
+2025-03-18 19:06:00 - Tempo médio de atendimento acima do esperado
+2025-03-18 19:20:00 - Tempo médio de espera excedeu 15 minutos
+
+Relatório gerado com sucesso!
