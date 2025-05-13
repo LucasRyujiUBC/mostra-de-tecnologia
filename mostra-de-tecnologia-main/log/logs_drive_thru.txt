@@ -1,0 +1,67 @@
+[2025-05-13 19:45:44] INFO: Pedido 1 iniciado no drive-thru
+[2025-05-13 19:45:49] INFO: Pedido 1 preparado na cozinha
+[2025-05-13 19:45:52] INFO: Pedido 1 entregue ao cliente
+[2025-05-13 19:45:54] INFO: Pedido 2 iniciado no drive-thru
+[2025-05-13 19:45:56] INFO: Pedido 2 preparado na cozinha
+[2025-05-13 19:45:59] INFO: Pedido 2 entregue ao cliente
+[2025-05-13 19:46:28] INFO: Pedido 3 iniciado no drive-thru
+[2025-05-13 19:46:30] INFO: Pedido 3 preparado na cozinha
+[2025-05-13 19:46:32] INFO: Pedido 3 entregue ao cliente
+[2025-05-13 19:46:35] INFO: Pedido 4 iniciado no drive-thru
+[2025-05-13 19:46:36] INFO: Pedido 4 preparado na cozinha
+[2025-05-13 19:46:38] INFO: Pedido 4 entregue ao cliente
+[2025-05-13 19:46:40] INFO: Pedido 5 iniciado no drive-thru
+[2025-05-13 19:46:42] INFO: Pedido 5 preparado na cozinha
+[2025-05-13 19:46:43] INFO: Pedido 5 entregue ao cliente
+[2025-05-13 19:50:57] INFO: Pedido 6 iniciado no drive-thru
+[2025-05-13 19:51:01] INFO: Pedido 6 preparado na cozinha
+[2025-05-13 19:51:04] INFO: Pedido 6 entregue ao cliente
+[2025-05-13 19:51:15] ERROR: Pedido 6 - Pedido atrasado
+[2025-05-13 19:51:46] INFO: Pedido 7 iniciado no drive-thru
+[2025-05-13 19:53:19] INFO: Pedido 8 iniciado no drive-thru
+[2025-05-13 19:53:31] INFO: Pedido 8 preparado na cozinha
+[2025-05-13 19:53:39] INFO: Pedido 8 entregue ao cliente
+[2025-05-13 19:53:45] INFO: Pedido 9 iniciado no drive-thru
+[2025-05-13 19:53:49] ERROR: Pedido 9 não pode ser entregue sem ter sido preparado!
+[2025-05-13 19:53:52] ERROR: Pedido 9 não pode ser entregue sem ter sido preparado!
+[2025-05-13 19:53:54] ERROR: Pedido 9 não pode ser entregue sem ter sido preparado!
+[2025-05-13 19:53:56] INFO: Pedido 9 preparado na cozinha
+[2025-05-13 19:53:58] INFO: Pedido 9 entregue ao cliente
+[2025-05-13 19:56:27] INFO: Pedido 10 iniciado no drive-thru
+[2025-05-13 19:56:38] ERROR: Pedido 10 - Pedido recusado pelo cliente
+[2025-05-13 19:58:42] INFO: Pedido 11 iniciado no drive-thru
+[2025-05-13 19:58:48] WARNING: Pedido 11 cancelado pelo usuário
+[2025-05-13 19:58:59] INFO: Pedido 12 iniciado no drive-thru
+[2025-05-13 19:59:02] INFO: Pedido 12 preparado na cozinha
+[2025-05-13 19:59:04] WARNING: Pedido 12 cancelado pelo usuário
+[2025-05-13 19:59:09] INFO: Pedido 13 iniciado no drive-thru
+[2025-05-13 19:59:11] ERROR: Pedido 13 não pode ser entregue sem ter sido preparado!
+[2025-05-13 19:59:13] INFO: Pedido 13 preparado na cozinha
+[2025-05-13 19:59:15] INFO: Pedido 13 entregue ao cliente
+[2025-05-13 19:59:17] WARNING: Pedido 13 cancelado pelo usuário
+[2025-05-13 20:09:49] INFO: Pedido 14 iniciado no drive-thru
+[2025-05-13 20:09:55] INFO: Pedido 14 preparado na cozinha
+[2025-05-13 20:10:05] ERROR: Pedido 14 Produto indisponível
+[2025-05-13 20:10:09] WARNING: Pedido 14 cancelado pelo usuário
+[2025-05-13 20:22:41] INFO: Pedido 15 iniciado no drive-thru
+[2025-05-13 20:22:45] INFO: Pedido 15 preparado na cozinha
+[2025-05-13 20:22:56] ERROR: Pedido 15 Erro ao adicionar condimentos
+[2025-05-13 20:27:48] INFO: Pedido 16 iniciado no drive-thru
+[2025-05-13 20:27:52] INFO: Pedido 16 preparado na cozinha
+[2025-05-13 20:28:10] ERROR: Pedido 16 Erro ao adicionar condimentos
+[2025-05-13 20:30:45] INFO: Pedido 17 iniciado no drive-thru
+[2025-05-13 20:30:52] ERROR: Pedido 17 Pagamento não processado
+[2025-05-13 20:32:13] INFO: Pedido 18 iniciado no drive-thru
+[2025-05-13 20:32:24] ERROR: Pedido 18 Pagamento não processado
+[2025-05-13 20:32:29] WARNING: Pedido 18 cancelado pelo usuário
+[2025-05-13 20:33:39] INFO: Pedido 19 iniciado no drive-thru
+[2025-05-13 20:33:42] INFO: Pedido 19 preparado na cozinha
+[2025-05-13 20:33:45] INFO: Pedido 19 entregue ao cliente
+[2025-05-13 20:34:00] ERROR: Pedido 19 Embalagem danificada
+[2025-05-13 20:35:44] INFO: Pedido 20 iniciado no drive-thru
+[2025-05-13 20:35:57] INFO: Pedido 20 preparado na cozinha
+[2025-05-13 20:36:22] INFO: Pedido 21 iniciado no drive-thru
+[2025-05-13 20:36:47] INFO: Pedido 21 preparado na cozinha
+[2025-05-13 20:37:43] ERROR: Pedido 21 Produto indisponível
+[2025-05-13 20:37:49] WARNING: Pedido 21 cancelado pelo usuário
+[2025-05-13 20:47:03] INFO: Pedido 22 iniciado no drive-thru
