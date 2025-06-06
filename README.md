@@ -1,1 +1,0 @@
-# mostra-de-tecnologia
